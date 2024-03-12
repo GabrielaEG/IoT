@@ -1,6 +1,13 @@
 # IoT
 Monitoreo y visualización de temperatura
 
+# Integrantes
+- Adalberto Amaya Garcia
+- Gabriela Estrello Guadarrama
+- Victor Eduardo Garcia Sardaneta
+- Angel Gabriel Herrera Contreras
+
+
 # Descripción
 Este proyecto consiste en desarrollar un sistema de monitoreo de temperatura a haciendo uso del sensor de temperatura LM35 3 días consecutivos. Los datos recopilados serán enviados a ThingSpeak para su posterior visualización y análisis utilizando un script en MATLAB.
 
