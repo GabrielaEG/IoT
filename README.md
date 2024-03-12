@@ -1,11 +1,11 @@
 # IoT
 Monitoreo y visualización de temperatura
 
-# Descripcion
+# Descripción
 Este proyecto consiste en desarrollar un sistema de monitoreo de temperatura a haciendo uso del sensor de temperatura LM35 3 días consecutivos. Los datos recopilados serán enviados a ThingSpeak para su posterior visualización y análisis utilizando un script en MATLAB.
 
 
-# Implementacion
+# Implementación
 Cabe mencionar que antes de la ejecución y toma de los datos en el código Arduino, se realizó la instalación de los drives de los puertos virtuales o tambien conocidos como COM, los cuales nos permitieron tener una conexión con la placa ESP32, al igual que descargar la placa en el IDE de Arduino.
 
 -Drivers para COM
