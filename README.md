@@ -1,9 +1,9 @@
 #ThingSpeak y ESP32 Monitoreo y visualización de temperatura (IoT)
 
 # Integrantes
-- Adalberto Amaya Garcia
+- Adalberto Amaya García
 - Gabriela Estrello Guadarrama
-- Victor Eduardo Garcia Sardaneta
+- Victor Eduardo García Sardaneta
 - Ángel Gabriel Herrera Contreras
 
 
